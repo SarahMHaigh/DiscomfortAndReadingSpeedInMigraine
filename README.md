@@ -1,7 +1,8 @@
 # Discomfort and Reading Speed in Migraine
 
-Stimuli and data from 112 participants who read high and low autocorrelation texts superimposed on chromatic gratings that differed in their color difference. From paper:
-Sarah M Haigh & Isabella M Durda (accepted). Discomfort and reading speed: Effects of migraine. Perception. https://doi.org/10.1177/03010066261442090. 
+Stimuli and data from 112 participants who read high and low autocorrelation texts superimposed on chromatic gratings that differed in their color difference. 
+
+Published in: Sarah M Haigh & Isabella M Durda (accepted). Discomfort and reading speed: Effects of migraine. Perception. https://doi.org/10.1177/03010066261442090. 
 
 RoR_Git.xlsx header information:
 - Name = participant ID
@@ -29,3 +30,9 @@ RoR_Git.xlsx header information:
 AoA_RoRtests.xlsx = age of acquisition information
 
 Project doi: https://doi.org/10.17605/OSF.IO/BPKHN
+
+____
+
+Questions? Email shaigh at unr dot edu
+
+For more information, see: https://sarahmhaigh.github.io/
